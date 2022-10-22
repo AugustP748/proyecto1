@@ -2,4 +2,6 @@ Estoy Probando este editor de texto
 
 El sentido de esto es guardarlo y probar como anda
 
+y ahora estoy comprobando agregar nuevo comentarios
+
 Git, que estoy aprendiendo a utilizarlo
